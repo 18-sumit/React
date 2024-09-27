@@ -1,11 +1,10 @@
 
-import Chai from "./chai";
+import Chai from "./Chai";
 
 function App() {
   return (
     <>
-    <Chai />
-    {/* <h1>Chai aur react || Sumit </h1> */}
+    <Chai/>
     
     </>
   );
